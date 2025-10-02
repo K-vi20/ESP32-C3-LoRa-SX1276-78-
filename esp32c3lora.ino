@@ -8,7 +8,7 @@
 #define LORA_SCK   8
 #define LORA_MISO  9
 #define LORA_MOSI  10
-#define LORA_CS    4
+#define LORA_CS    1
 #define LORA_RST   3
 #define LORA_IRQ   2   // DIO0
 
